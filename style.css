@@ -1,0 +1,41 @@
+body{
+    color: darkslategrey;
+    font-family: arial, sans-serif;
+    font-size: 17px;
+}
+h1{
+    font-size: 30px;
+    color: darkblue;
+}
+h2{
+    font-size: 24px;
+    background-color: lightskyblue;
+    color: darkblue;
+}
+.text-center{
+    text-align: center;
+}
+h3{
+    color: darkblue;
+}
+a{
+    position: relative;
+    color: lightskyblue;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    text-decoration: underline;
+}
+a:hover{
+    text-decoration: underline;
+    color: darkblue;
+}
+.imgRedonda{
+    border-radius: 50%;
+    width: 120px;
+}
+ul{
+    list-style-type: disc;
+}
+
